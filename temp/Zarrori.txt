@@ -1,0 +1,19 @@
+ *=do again especially
+ Linked List==>
+ ->Middle of LL
+ ->Nth node from end of LL
+ ->Reverse LL using iterative and recursion
+ ->Reverse LL in groups of K size
+ ->Floyd Loop Detection
+ ->Delete Loop*
+ ->Delete Node from LL
+ ->Pairwise swap*
+ ->Segregate odd even nodes
+ ->Clone LL using random pointer
+ ->LRU Cache
+ ->Merge sorted LL
+
+ Searching==>
+ ->Repeated element in consecutive sorted array
+ ->More than n/k
+ ->
