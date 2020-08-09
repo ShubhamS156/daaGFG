@@ -34,3 +34,6 @@ void deleteNode(Node* curr){
     nextN->next=NULL;
     
 }
+int main(){
+	
+}

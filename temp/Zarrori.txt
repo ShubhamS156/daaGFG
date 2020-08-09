@@ -17,3 +17,7 @@
  ->Repeated element in consecutive sorted array
  ->More than n/k
  ->
+
+Queue==>
+->generate numbers 
+
