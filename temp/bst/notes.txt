@@ -1,0 +1,19 @@
+(if marked yellow means important)
+Self Balancing Trees;
+    AVL==> strict in terms of height means more rotations and restructuring
+    Red Black==> looser in terms of height less restructuring and hence used more . Also used in c++, java libs
+In c++ set(implementation of red black bst) has a function lower_bound which finds the ceiling of a number in the tree. 
+
+(yellow)
+If there is a question to check if the structure of two binary tree is same then one possible solution is that maintain leftCount and rightCount of nodes and if they are
+equal for every node then they are identical in structure;
+
+----------------------------------------------------------------------------------
+Tricks
+    1-> compare the root and go left/right accordingly
+    2-> use markings in floor,ceil like questions
+    3-> pass range in which the elements should be like in nodeDetails questions
+    4-> mark each vertical level starting from root as zero +1 for right and
+        -1 for left subtree
+
+

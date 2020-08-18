@@ -1,0 +1,6 @@
+1-> heap sort
+2-> operations on heap
+3-> k largest elements using 3 solns
+*4-> k most occuring elements..learn:- write comparator 
+**5-> minimum cost for ropes
+

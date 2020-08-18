@@ -1,0 +1,6 @@
+*1->deleting a node
+2->kth smallest element
+*3->check if given tree is bst
+4-> LCA
+*5-> check bst
+**6->construct bst from level order array
